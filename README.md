@@ -1,2 +1,5 @@
 # Woodworking
-Collection of Woodworking Desgin and Tools
+Collection of general woodworking desgins, plans and tools.
+
+## Projects
+  * [Centering Angle](/centering_angle)
